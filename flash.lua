@@ -14,7 +14,7 @@ local colors = {
 }
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("TSUNAMI EGY", "Blood Theme")
+local Window = Library.CreateLib("Flash EGY", "Blood Theme")
 
 local Tab = Window:NewTab("قائمه 1")
 local Section = Tab:NewSection("سكربتات بروك هيفين")
